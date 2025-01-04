@@ -8,4 +8,4 @@ This is a responsive web page created using HTML and CSS. It is designed to adap
 - Built with only HTML and CSS
 
 ## Live Demo
-Check out the live demo here: [Responsive Web Page](https://3mmarsara.github.io/HTML-CSS-final-task/)
+Check out the live demo here: [Responsive Web Page](https://3mmarsara.github.io/HTML-CSS-Responsive-Web-Page/)
